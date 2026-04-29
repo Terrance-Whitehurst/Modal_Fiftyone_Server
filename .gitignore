@@ -1,0 +1,7 @@
+# Multi-Team Chat — keep entire .pi directory private
+.pi/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
